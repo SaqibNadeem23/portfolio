@@ -23,12 +23,13 @@ I am a passionate mobile application developer with experience in designing, dev
    - **Description**: [Short description of what the app does]
    - **Technologies Used**: Xamarin Forms, Firebase
    - **Live Demo**: [Link to demo/app store if available]
-   - **Code**: [GitHub Repository link]
+   - **Project Images**: ![Click here]([[link-to-image](https://github.com/SaqibNadeem23/Event-Aasani/tree/master/Event%20Aasani%20Images)])
+
 
 ### 2. **[Project Name]**
    - **Description**: [Short description of the app]
    - **Technologies Used**: Xamarin Forms, [Other tools]
-   - **Screenshots**: ![Screenshot]([link-to-image](https://github.com/SaqibNadeem23/Event-Aasani/tree/master/Event%20Aasani%20Images))
+   - **Project Images**: ![Click here]([[link-to-image](https://github.com/SaqibNadeem23/Event-Aasani/tree/master/Event%20Aasani%20Images)])
 
 _(Repeat for more projects)_
 
