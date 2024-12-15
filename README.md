@@ -6,16 +6,20 @@ Below, you'll find some of my best projects and skills.
 ---
 
 ## **About Me**
-I am a passionate mobile application developer with experience in designing, developing, and deploying 6-7 market-level applications. My goal is to create intuitive and robust solutions tailored to user needs.
+I am a passionate and skilled mobile application developer with hands-on experience in building high-quality, user-friendly apps. Over the course of my career, I have developed 6-7 market-ready applications using Xamarin Forms, showcasing expertise in cross-platform development. Currently, I am enhancing my skillset by learning Flutter, staying up-to-date with modern frameworks and technologies.
+
+My focus is on delivering innovative and efficient solutions tailored to meet user needs. I specialize in building applications with seamless functionality, intuitive design, and scalable architecture. My strong technical background, coupled with a commitment to continuous learning, enables me to adapt to evolving development trends and deliver impactful results.
 
 ---
 
 ## **Skills**
-- **Frameworks**: Xamarin Forms, Flutter
+- **Frameworks**: Xamarin Forms, Flutter, MVVM, Entity framework, 
 - **Languages**: C#, XAML, Dart
 - **Tools**: Visual Studio, Git, VS Code.
 - **Databases**: MySQL, SQLite, Microsoft SQL Server
-
+- Integration of APIs and third-party services
+- Debugging, optimization, and performance tuning of mobile applications
+- Effective collaboration with teams and stakeholders
 ---
 
 ## **Featured Projects**
